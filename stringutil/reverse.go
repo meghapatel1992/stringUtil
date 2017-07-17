@@ -14,3 +14,8 @@ func Reverse(s string) string {
 func Reverse1(s string) string {
 	return "megha"
 }
+
+// Reverse returns its argument string reversed rune-wise left to right.
+func Reverse2(s string) string {
+	return "patel"
+}
